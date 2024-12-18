@@ -1,6 +1,6 @@
-# 🛍️ **Web Development TFG: Multi-Language E-Commerce Platform**
+# 🛍️ **Web Development Project: Multi-Language E-Commerce Platform**
 
-Welcome to my **Web Development TFG** repository! This project showcases a comprehensive e-commerce platform developed as part of my final engineering project. It highlights my expertise in **full-stack web development**, utilizing various technologies and programming languages to create a responsive, dynamic, and feature-rich application.
+Welcome to my **Web Development Project** repository! This project showcases a comprehensive e-commerce platform developed as part of my final engineering project. It highlights my expertise in **full-stack web development**, utilizing various technologies and programming languages to create a responsive, dynamic, and feature-rich application.
 
 ---
 
@@ -98,7 +98,7 @@ Contributions are welcome! If you'd like to contribute:
 ## 📩 **Contact**
 Sergio (eguilser)  
 [GitHub Profile](https://github.com/eguilser)  
-[Email](mailto:sergio.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sergio-egu%C3%ADluz-43482a265/)
 
 ---
 
