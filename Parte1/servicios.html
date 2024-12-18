@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible"  content="IE=endge">
+        <meta name="viewport" content="width=device-width, initial-scale = 1.0">
+        <title>Tienda</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css" />
+        <link rel="stylesheet" href="style.css">
+        </head>
+
+        <body>
+
+            
+            <header class="header">
+                
+                <div class="menu container">
+
+                    <a href="index.html" class="logo"></a>
+    
+                    <input type="checkbox" id="menu" />
+                    <label for = "menu"> <img src="images/menu.png" class="menu-icono" alt=""></label>
+                    <nav class="navbar">
+                        <ul>
+                            <li><a href="index.html">Inicio</a></li>
+                            <li><a href="servicios.html">Servicio</a></li>
+                            <li><a href="productos1.html">Productos</a></li>
+                            <li><a href="contacto.html">Contacto</a></li>
+                    </nav>
+                    <li>
+                        <a href="login.html" class="btn-1"> Iniciar Sesión</a>
+                        <a href="signup.html" class="btn-1"> Regístrate</a>
+                    </li>
+                    <div>
+                        <ul>
+                            <li class="submenu">
+                                <img src="images/car.svg" id="img-carrito" alt="">
+                                <div id="carrito">
+                                    <table id="lista-carrito">
+                                        <tbody>
+                                            <thead>
+                                                <tr>
+                                                    <th>Imagen</th>
+                                                    <th>Nombre</th>
+                                                    <th>Precio</th>
+                                                </tr>
+                                            </thead>
+                                        </tbody>
+                                    </table>
+                                    <a href="#" id="vaciar-carrito" class="btn-3">Vaciar carrito</a>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </header>
+
+            
+            <section class="servicios container">
+                <h2>Nuestros Servicios</h2>
+
+                <section class="servicios container">
+                    <h2>Nuestros Servicios</h2>
+            
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+            
+                            <!-- Primer servicio -->
+                            <div class="swiper-slide servicio">
+                                <img src="serv1.jpg" alt="">
+                                <h3>Servicio de Desarrollo Web</h3>
+                                <p>Ofrecemos soluciones de desarrollo web personalizadas para tu negocio. Desde sitios web informativos hasta tiendas en línea.</p>
+                            </div>
+            
+                            <!-- Segundo servicio -->
+                            <div class="swiper-slide servicio">
+                                <img src="images/servicio2.jpg" alt="Servicio 2">
+                                <h3>Servicio de Diseño Gráfico</h3>
+                                <p>Nuestro equipo de diseñadores gráficos puede crear logotipos, materiales promocionales y diseños atractivos para tu marca.</p>
+                            </div>
+            
+                            <!-- Tercer servicio -->
+                            <div class="swiper-slide servicio">
+                                <img src="images/servicio3.jpg" alt="Servicio 3">
+                                <h3>Servicio de Consultoría en Marketing Digital</h3>
+                                <p>Te ayudamos a desarrollar estrategias efectivas de marketing digital para aumentar la visibilidad de tu negocio en línea.</p>
+                            </div>
+            
+                            <!-- Puedes agregar más servicios según sea necesario -->
+            
+                        </div>
+                        <!-- Agregar botones de navegación de Swiper -->
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
+                    </div>
+                </section>
+            
+            <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+            <script src="script.js"></script>
+        </body>
+</html>
