@@ -52,14 +52,8 @@ This project is divided into three distinct phases:
 
 ## 📸 **Screenshots**
 
-### **Practice 1: Static Pages**
-![Static Pages Screenshot](https://via.placeholder.com/800x400)
-
 ### **Practice 2: Dynamic Web Application**
 ![Dynamic Web Application Screenshot](https://via.placeholder.com/800x400)
-
-### **Practice 3: Admin Dashboard**
-![Admin Dashboard Screenshot](https://via.placeholder.com/800x400)
 
 ---
 
