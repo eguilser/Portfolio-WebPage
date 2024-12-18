@@ -53,7 +53,7 @@ This project is divided into three distinct phases:
 ## 📸 **Screenshots**
 
 ### **Practice 2: Dynamic Web Application**
-![Dynamic Web Application Screenshot](https://via.placeholder.com/800x400)
+![Dynamic Web Application Screenshot](images/PaginaReadme.PNG)
 
 ---
 
